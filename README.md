@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranjali Surwase</h1>
 <h3 align="center">A passionate software developer from India</h3>
-< img src ="https://images.app.goo.gl/gdBwockQeuWXEtTG9" alt=">
+
 - 🌱 I’m currently learning **DSA,SQL**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/pranjali-surwase-308663240](https://www.linkedin.com/in/pranjali-surwase-308663240)
