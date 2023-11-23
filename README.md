@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **DSA,SQL**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/pranjali-surwase-308663240](https://www.linkedin.com/in/pranjali-surwase-308663240)
 
 - 💬 Ask me about **C++,Java,python**
 
